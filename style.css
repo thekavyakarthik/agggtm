@@ -1,0 +1,61 @@
+body {
+  background: white;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-size: 24px;
+}
+
+ul {
+  font-family: monospace;
+  font-size: 24px;
+}
+
+h1 {
+  font-size: 84px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 48px;
+  text-align: center;
+  font-family: 'Bad Script'
+}
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h4 {
+  font-size: 40px;
+  color: darkred;
+}
+
+h6 {
+  text-align: right;
+  font-size: 18px;
+  font-style: italic;
+  color: gray;
+  font-family: 'Cedarville Cursive';
+}
+
+img {
+  border-radius: 100px;
+}
+
+.agggtm {
+  width: 25%;
+  float: left;
+  height: 25%;
+  background-color: darkred;
+  z-index: 1010101010;
+  color: floralwhite;
+  padding: 0-5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.index {margin: 0 -5px;
+  position: fixed;
+}
