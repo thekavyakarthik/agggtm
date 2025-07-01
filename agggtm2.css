@@ -6,14 +6,7 @@ p {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
   text-align: right;
-  color: black;
   font-size: 24px;
-}
-
-h1 {
-  font-size: 84px;
-  text-align: center;
-  font-family;
 }
 
 h2 {
@@ -33,19 +26,4 @@ h2 {
 h3 {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-}
-
-.agggtm {
-  width: 25%;
-  float: left;
-  height: 25%;
-  background-color: darkred;
-  z-index: 1010101010;
-  color: floralwhite;
-  padding: 0-5px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-}
-
-.index {margin: 0 -5px;
-  position: fixed;
 }

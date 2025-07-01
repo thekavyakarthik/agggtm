@@ -1,18 +1,11 @@
-body {
-  background-color: white;
-}
 p {
   color: black;
 }
 h1 {
   font-weight: bold;
-  font-size: 84px;
-  text-align: center;
-  font-family: 'Bad Script';
 }
 
 img{
-  ;
   border-radius: 80px;
 }
 
@@ -27,20 +20,4 @@ h6 {
   font-style: italic;
   color: gray;
   font-family: 'Cedarville Cursive';
-}
-
-.agggtm {
-  width: 25%;
-  float: left;
-  height: 25%;
-  background-color: darkred;
-  z-index: 1010101010;
-  color: floralwhite;
-  padding: 0-5px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-}
-
-}
-.index {margin: 0 -5px;
-  position: fixed;
 }

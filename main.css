@@ -1,0 +1,28 @@
+body {
+  background-color: white;
+}
+
+.index {
+  position: fixed;
+  width: 98ssvw;
+}
+
+.agggtm {
+  width: 25%;
+  float: left;
+  height: 25%;
+  background-color: darkred;
+  z-index: 1010101010;
+  color: floralwhite;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+a{
+  color: floralwhite;
+}
+
+h1 {
+  font-size: 84px;
+  text-align: center;
+  font-family: 'Bad Script';
+}
